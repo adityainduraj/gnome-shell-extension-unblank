@@ -1,8 +1,10 @@
 # gnome-shell-extension-unblank
 
+Forked this for my own backup. 
+
 Unblank screen when screen saver becomes active.
 
-After you install extension, the extension will become enable. If you want to disable extension, you need to delete this extension or go to this extension settings to turn off switch.
+The extension will be enabled upon installation. If you want to disable the extension, the extension needs to be deleted or turned off. 
 
 ## Install
 
